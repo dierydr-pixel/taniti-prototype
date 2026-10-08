@@ -95,3 +95,9 @@ main {
   margin-bottom: 0;
   font-size: 14px;
 }
+.reference-entry {
+  padding-left: 2em;
+  text-indent: -2em;
+  line-height: 2;
+  overflow-wrap: anywhere;
+}
